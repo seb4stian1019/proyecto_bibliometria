@@ -1,0 +1,4 @@
+algoritmo,mediana_ms,media_ms,desviacion_ms,minimo_ms,maximo_ms,repeticiones
+Counting Sort,0.1721,0.1940,0.0544,0.1302,0.4058,1000
+Radix Sort,0.2426,0.2693,0.0756,0.1808,0.6090,1000
+Bucket Sort,0.4851,0.5438,0.1566,0.3590,1.0137,1000

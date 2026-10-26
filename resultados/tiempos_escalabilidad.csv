@@ -1,0 +1,22 @@
+algoritmo,n,mediana_ms
+Counting Sort,1000,0.1510
+Radix Sort,1000,0.2106
+Bucket Sort,1000,0.4243
+Counting Sort,2000,0.2879
+Radix Sort,2000,0.3956
+Bucket Sort,2000,0.8004
+Counting Sort,5000,1.1269
+Radix Sort,5000,1.5493
+Bucket Sort,5000,3.4376
+Counting Sort,10000,1.4692
+Radix Sort,10000,2.0280
+Bucket Sort,10000,4.3071
+Counting Sort,20000,2.8580
+Radix Sort,20000,3.9500
+Bucket Sort,20000,9.2480
+Counting Sort,50000,8.5432
+Radix Sort,50000,14.4095
+Bucket Sort,50000,28.2932
+Counting Sort,100000,14.3744
+Radix Sort,100000,22.3396
+Bucket Sort,100000,47.1144

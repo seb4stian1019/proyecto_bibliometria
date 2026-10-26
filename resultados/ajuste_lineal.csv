@@ -1,0 +1,4 @@
+algoritmo,us_por_termino_n_menor,us_por_termino_n_mayor,pendiente_ms_por_termino,r2
+Counting Sort,0.1510,0.1437,0.00014648,0.9914
+Radix Sort,0.2106,0.2234,0.00023269,0.9793
+Bucket Sort,0.4243,0.4711,0.00048351,0.9899

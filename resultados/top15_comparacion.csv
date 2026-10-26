@@ -1,0 +1,16 @@
+posicion,counting_termino,counting_frecuencia,radix_termino,radix_frecuencia,bucket_termino,bucket_frecuencia,coinciden
+1,ai,86,ai,86,ai,86,sí
+2,education,57,education,57,education,57,sí
+3,research,46,research,46,research,46,sí
+4,learning,40,learning,40,learning,40,sí
+5,aied,38,aied,38,aied,38,sí
+6,review,36,review,36,review,36,sí
+7,educational,33,educational,33,educational,33,sí
+8,assessment,32,assessment,32,assessment,32,sí
+9,intelligence,23,intelligence,23,intelligence,23,sí
+10,artificial,22,artificial,22,artificial,22,sí
+11,studies,21,studies,21,studies,21,sí
+12,higher,16,higher,16,higher,16,sí
+13,literature,15,literature,15,literature,15,sí
+14,technologies,15,technologies,15,technologies,15,sí
+15,systematic,15,systematic,15,systematic,15,sí
